@@ -13,5 +13,6 @@ public class TestByteBufferReadWrite {
         debugAll(buffer);
         System.out.println("123");
         System.out.println("123");
+        System.out.println("123");
     }
 }
