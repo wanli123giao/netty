@@ -11,6 +11,5 @@ public class TestByteBufferReadWrite {
         debugAll(buffer);
         buffer.put(new byte[]{0x62,0x63,0x64} );
         debugAll(buffer);
-        sout(123)
     }
 }
