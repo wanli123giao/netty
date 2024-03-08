@@ -14,5 +14,8 @@ public class TestByteBufferReadWrite {
         System.out.println("001");
         System.out.println("001");
         System.out.println("001");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
     }
 }
